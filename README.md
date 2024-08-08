@@ -20,8 +20,10 @@
   <a href="https://www.linkedin.com/in/victor-rojas-517666293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-  ![snake gif](https://github.com/VictorRojasHub/VictorRojasHub/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 </div>
+
+ ![snake gif](https://github.com/VictorRojasHub/VictorRojasHub/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **VictorRojasHub/VictorRojasHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
