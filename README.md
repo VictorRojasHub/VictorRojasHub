@@ -1,3 +1,8 @@
+Hello, there!!
+Literature and English Language teacher🪶, focusing on projects that explore the intersection between games and education🕹️. hold a BA in Literature from the Santo André Foundation University Center (FSA, Brazil) and a Technical Degree in Electronics from Júlio de Mesquita Technical School, part of the Paula Souza State Center for Technological Education (CEETEPS, Brazil). Currently, pursuing a B.Tech. in Multiplatform Software Development at the Faculty of Technology of Mauá (Fatec Mauá)📱💻, another CEETEPS unit. also a member of the research project DramaTech: Games, Storytelling,
+and Technology (Fatec Mauá). My research interests include technology in education, distance learning, gamification, and learning platforms 👓.
+
+
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRojasHub&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRojasHub&layout=donut&theme=dracula)](https://github.com/VictorRojasHub/github-readme-stats)
 <div style="display: inline_block"><br>
