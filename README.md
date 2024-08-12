@@ -23,6 +23,8 @@ Hello, there!!
   ##
  
 <div> 
+  <a href="https://www.youtube.com/@Literato_Games" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@Literato_Games" target="_blank"><img height="28" width="100" src="https://static.wikia.nocookie.net/aisaac-the-hedgehog/images/f/fd/GameJolt_logo.png/revision/latest?cb=20220416211458" target="_blank"></a>
   <a href="https://www.youtube.com/@Literato_Games" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vic7or77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
