@@ -1,10 +1,10 @@
 Hello, there!!
 
-* Learning C++
+
 * Literature and English Language teacher🪶, focusing on projects that explore the intersection between games and education🕹️.
 * Actually working in some games: - O Trem de Dante with DramaTech: Games, Storytelling, and Technology.📝
 * Zorix Adventures, a self project from scratch.
-
+* Learning C++
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRojasHub&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRojasHub&layout=donut&theme=dracula)](https://github.com/VictorRojasHub/github-readme-stats)
