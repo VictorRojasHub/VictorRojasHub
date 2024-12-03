@@ -2,9 +2,11 @@ Hello, there!!
 
 
 * Literature and English Language teacher🪶, focusing on projects that explore the intersection between games and education🕹️.
-* Actually working in some games: - O Trem de Dante with DramaTech: Games, Storytelling, and Technology.📝
+* Actually working in some games:
+  
+* O Trem de Dante with DramaTech: Games, Storytelling, and Technology.📝 - https://literato-games.itch.io/o-trem-de-dante-pre-demo 3d artist and programmer
 * Zorix Adventures, a self project from scratch.
-* PteroFlap - TypeScript project with Phaser - https://literato-games.itch.io/pteroflap
+* PteroFlap - TypeScript project with Phaser. - https://literato-games.itch.io/pteroflap
 
   Main quests:
   
