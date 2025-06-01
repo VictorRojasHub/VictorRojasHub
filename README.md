@@ -41,5 +41,3 @@ Hello, there!!
 
  
 </div>
-
-![snake animation](https://github.com/VictorRojasHub/VictorRojasHub/blob/output/github-contribution-grid-snake2.svg)
